@@ -12,6 +12,18 @@ public class Scratch {
         System.out.println("Hello World");
 
         // Object creation statement
-        Car ferrari = new Car ();
+        Car ferrari = new Car();
+
+
+        boolean isMorning = true;
+
+        if (isMorning) {
+            System.out.println("It's Morning");
+            putTheKettleOn();
+        }
+
+    }
+    private static void putTheKettleOn() {
+        System.out.println("Put the Kettle On...");
     }
 }
