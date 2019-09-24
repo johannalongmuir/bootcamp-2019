@@ -1,7 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52c42969-ed95-4d08-a981-65ef60b74079" name="Default Changelist" comment="" />
+    <list default="true" id="52c42969-ed95-4d08-a981-65ef60b74079" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/fundamentals-3/META-INF/fundamentals-3.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/fundamentals-3/com/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/fundamentals-3/com/.idea/com.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/fundamentals-3/com/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/fundamentals-3/com/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/fundamentals-3/com/manchesterdigital/BlockStatements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/fundamentals-3/com/manchesterdigital/CodingChallenge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/fundamentals-3/com/manchesterdigital/IfStatements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/fundamentals-3/com/manchesterdigital/LastDigit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/fundamentals-3/com/manchesterdigital/RestaurantChallenge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/fundamentals-3/com/manchesterdigital/SwitchStatements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/fundamentals-3/com/manchesterdigital/WeekdayChallenge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/manchesterdigital/BlockStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/manchesterdigital/CodingChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/manchesterdigital/FinalChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/manchesterdigital/IfStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/manchesterdigital/LastDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/manchesterdigital/RestaurantChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/manchesterdigital/StringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/manchesterdigital/SwitchStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/manchesterdigital/WeekdayChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-4/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-4/fundamentals-4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-4/src/com/manchesterdigital/AgeChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-4/src/com/manchesterdigital/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-4/src/com/manchesterdigital/BakingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-4/src/com/manchesterdigital/BakingExampleCover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-4/src/com/manchesterdigital/CarDealershipRewards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-4/src/com/manchesterdigital/ImprovedCarDealership.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-4/src/com/manchesterdigital/MethodOverloadingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-4/src/com/manchesterdigital/RegMeNow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-4/src/com/manchesterdigital/RockPaperScissors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-4/src/com/manchesterdigital/Scratch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-4/src/com/manchesterdigital/Static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-4/src/com/manchesterdigital/StringBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-4/src/com/manchesterdigital/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-4/src/com/manchesterdigital/TeaPartyChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/fundamentals-3/com/manchesterdigital/Scratch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fundamentals-3/com/manchesterdigital/Scratch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/manchesterdigital/Scratch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/manchesterdigital/Scratch.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,11 +65,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1RESwKcdJzMuLsHtTgm4I58VGUh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -39,9 +90,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Operators">
-    <configuration name="ExpressionStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.manchesterdigital.ExpressionStatements" />
+  <component name="RunManager" selected="Application.SwitchStatements">
+    <configuration name="IfStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.manchesterdigital.IfStatements" />
       <module name="fundamentals-3" />
       <extension name="coverage">
         <pattern>
@@ -53,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.manchesterdigital.Operators" />
+    <configuration name="LastDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.manchesterdigital.LastDigit" />
       <module name="fundamentals-3" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="School" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.manchesterdigital.School" />
+    <configuration name="RestaurantChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.manchesterdigital.RestaurantChallenge" />
       <module name="fundamentals-3" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Students" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.manchesterdigital.Students" />
+    <configuration name="SwitchStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.manchesterdigital.SwitchStatements" />
       <module name="fundamentals-3" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +143,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.manchesterdigital.Variables" />
+    <configuration name="WeekdayChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.manchesterdigital.WeekdayChallenge" />
       <module name="fundamentals-3" />
       <extension name="coverage">
         <pattern>
@@ -107,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Operators" />
-        <item itemvalue="Application.School" />
-        <item itemvalue="Application.Students" />
-        <item itemvalue="Application.ExpressionStatements" />
-        <item itemvalue="Application.Variables" />
+        <item itemvalue="Application.SwitchStatements" />
+        <item itemvalue="Application.RestaurantChallenge" />
+        <item itemvalue="Application.WeekdayChallenge" />
+        <item itemvalue="Application.IfStatements" />
+        <item itemvalue="Application.LastDigit" />
       </list>
     </recent_temporary>
   </component>
@@ -127,5 +178,18 @@
       <updated>1569230999762</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
