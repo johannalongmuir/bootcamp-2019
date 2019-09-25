@@ -2,15 +2,19 @@ package com.mancheterdigital;
 
 public class StringBuilder {
     public static void main(String[] args) {
-        StringBuilder str = new StringBuilder();
+        java.lang.StringBuilder str = new java.lang.StringBuilder();
+        System.out.println(str);
+        str.append(15);
 
+
+        //  see fundamentals-4
+        // looks different on here as String Builder kept refering to the class not the language
         //  StringBuilder str = new StringBuilder();
         //  System.out.println(test);
         //  outputNew.append(12);
 
         //output.append(12);
         //output.append("Duncan");
-        //append not working for some reason. Have a look online
 
         //System.out.println(outputNew);
 
