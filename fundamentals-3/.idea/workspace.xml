@@ -2,51 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52c42969-ed95-4d08-a981-65ef60b74079" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/fundamentals-3/META-INF/fundamentals-3.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/fundamentals-3/com/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/fundamentals-3/com/.idea/com.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/fundamentals-3/com/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/fundamentals-3/com/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/fundamentals-3/com/manchesterdigital/BlockStatements.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/fundamentals-3/com/manchesterdigital/CodingChallenge.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/fundamentals-3/com/manchesterdigital/IfStatements.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/fundamentals-3/com/manchesterdigital/LastDigit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/fundamentals-3/com/manchesterdigital/RestaurantChallenge.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/fundamentals-3/com/manchesterdigital/SwitchStatements.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/fundamentals-3/com/manchesterdigital/WeekdayChallenge.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/manchesterdigital/BlockStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/manchesterdigital/CodingChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/manchesterdigital/FinalChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/manchesterdigital/IfStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/manchesterdigital/LastDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/manchesterdigital/RestaurantChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/manchesterdigital/StringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/manchesterdigital/SwitchStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/manchesterdigital/WeekdayChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fundamentals-4/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fundamentals-4/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fundamentals-4/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fundamentals-4/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fundamentals-4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fundamentals-4/fundamentals-4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fundamentals-4/src/com/manchesterdigital/AgeChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fundamentals-4/src/com/manchesterdigital/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fundamentals-4/src/com/manchesterdigital/BakingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fundamentals-4/src/com/manchesterdigital/BakingExampleCover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fundamentals-4/src/com/manchesterdigital/CarDealershipRewards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fundamentals-4/src/com/manchesterdigital/ImprovedCarDealership.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fundamentals-4/src/com/manchesterdigital/MethodOverloadingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fundamentals-4/src/com/manchesterdigital/RegMeNow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fundamentals-4/src/com/manchesterdigital/RockPaperScissors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fundamentals-4/src/com/manchesterdigital/Scratch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fundamentals-4/src/com/manchesterdigital/Static.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fundamentals-4/src/com/manchesterdigital/StringBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fundamentals-4/src/com/manchesterdigital/Students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../fundamentals-4/src/com/manchesterdigital/TeaPartyChallenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/fundamentals-3/com/manchesterdigital/Scratch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/fundamentals-3/com/manchesterdigital/Scratch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/manchesterdigital/Scratch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/manchesterdigital/Scratch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-5/fundamentals5testing/fundamentals5testing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-6/fundamentals-6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-6/src/com/manchesterdigital/ExceptionsExampleTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamentals-4" beforeDir="false" afterPath="$PROJECT_DIR$/../fundamentals-4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamentals-5/fundamentals5testing/src/main/java/com/manchesterdigital/TemperatureConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fundamentals-5/fundamentals5testing/src/main/java/com/manchesterdigital/TemperatureConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamentals-5/fundamentals5testing/src/test/java/com/manchesterdigital/TemperatureConverterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fundamentals-5/fundamentals5testing/src/test/java/com/manchesterdigital/TemperatureConverterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamentals-5/fundamentals5testing/target/classes/com/manchesterdigital/TemperatureConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fundamentals-5/fundamentals5testing/target/classes/com/manchesterdigital/TemperatureConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamentals-5/fundamentals5testing/target/test-classes/com/manchesterdigital/TemperatureConverterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fundamentals-5/fundamentals5testing/target/test-classes/com/manchesterdigital/TemperatureConverterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamentals-5/src/com/mancheterdigital/ExceptionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fundamentals-5/src/com/mancheterdigital/ExceptionExample.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
