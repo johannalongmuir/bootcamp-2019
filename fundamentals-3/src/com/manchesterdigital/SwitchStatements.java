@@ -24,7 +24,11 @@ public class SwitchStatements {
     }
 
     private static void warningMessage(){
-        // done in way when case 10 and case 20 are directly over each other. See above for one message if 10 or 20
+        /* done in way when case 10 and case 20 are directly over each other.
+           See above for one message if 10 or 20
+         */
+
         System.out.println("Not enough Dollars!!!");
+
     }
 }

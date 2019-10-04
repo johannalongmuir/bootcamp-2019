@@ -1,15 +1,21 @@
 package com.manchesterdigital;
 
 public class Variables {
-    // class variable. Available anywhere in the class. Created once as static in memory. Warning signs
+    /* Member class variables are available anywhere in the class.
+       Created once in this case as static in memory.
+       Remember to be careful with static.
+     */
+
     static boolean isHungry = false;
 
 
+    // Main method
     public static void main(String[] args) {
         greetWhenAdult(12);
+
     }
 
-    /**
+    /** What do we want to do
      * Greets base on age
      * @param age this is the age required
      */
@@ -21,7 +27,6 @@ public class Variables {
         if (!isHungry) {
             if (isHappy && age >= 18) {
                 System.out.println("Hello");
-
             }
         }
     }
