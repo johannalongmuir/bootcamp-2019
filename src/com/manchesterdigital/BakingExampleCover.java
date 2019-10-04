@@ -10,5 +10,6 @@ public class BakingExampleCover {
         BakingExample.switchOvenOn(5);
     }
 
+
 }
 

@@ -17,7 +17,6 @@ public class CarDealershipRewards {
                 System.out.println("Total salary is (after bonus): " + totalSalary);
             }
         }
-
         numberOfSales = 300;
         baseSalary = 250000;
         commissionRate = 2.0;

@@ -11,6 +11,7 @@ public class TeaPartyChallenge {
         System.out.println(teaParty(25, 20));
     }
 
+
     // method returning outcome of tea party. int data type
     public static int teaParty(int tea, int candy){
 

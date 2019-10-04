@@ -6,7 +6,6 @@ public class BakingExample {
         switchOvenOn(6);
 
     }
-
     protected void decorate() {
         System.out.println("Decorating cake....");
     }

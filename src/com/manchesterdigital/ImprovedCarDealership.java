@@ -8,6 +8,7 @@ public class ImprovedCarDealership {
         double commissionRate = 3.0;
         int bonus = 1000;
 
+
         calcSalary(taxYearEnded, numberOfSales, baseSalary, commissionRate);
 
         numberOfSales = 300;

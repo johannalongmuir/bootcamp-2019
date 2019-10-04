@@ -10,5 +10,6 @@ public class StringBuilderTest {
         System.out.println(str);
         // will print >>> this is a great test12
 
+
     }
 }

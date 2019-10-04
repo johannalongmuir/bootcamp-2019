@@ -24,18 +24,15 @@ public class RegMeNow {
 
     private static String registrationGenerator(String input) {
         String[] inputAsArr = input.split("");
-        System.out.println(input);
+        //System.out.println(inputAsArr[1].equals("S"));
+        System.out.println(inputAsArr);
+        System.out.println(inputAsArr[1]);
 
-        // System.out.println(inputAsArr[1].equals("S"));
-        //if (String [0] == "S") {
-        //  System.out.println("S");
-        //}
-        //return "1";
+        if (inputAsArr [0].equals("S")) {
+            inputAsArr[0] = "5";
+        } return inputAsArr [0];
 
-    return "";
     }
-
-
 }
 
 /**

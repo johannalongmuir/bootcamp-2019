@@ -5,6 +5,7 @@ public class Arrays {
         // both valid. First is prefered. Int array called number
         int [] numbers;
         int numbers2 [];
+
         //initialses every element int default 0 for 10. IF Boolean, default is false.
         int [] numbers3 = new int[10];
         // first position in array is 99. 10 numbers not right as only putting in 2 with below. IF not need to do fixed size.

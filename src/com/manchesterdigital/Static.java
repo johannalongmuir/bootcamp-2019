@@ -16,6 +16,7 @@ public class Static {
     }
 
 
+
     public static void main(String[] args) {
         Static amy = new Static();
         amy.setName("Amy");
