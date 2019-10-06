@@ -1,6 +1,7 @@
 package com.manchesterdigital;
 
 public class ExpressionStatements {
+
     public static void main(String[] args) {
         int years = 5;
         double interestRate = 0.4d;
@@ -17,7 +18,6 @@ public class ExpressionStatements {
         if (score > 1000) {
             System.out.println("Score is greater than 1000!");
         }
-
 
     }
 }

@@ -11,9 +11,8 @@ public class Scratch {
         //method invocation statement:
         System.out.println("Hello World");
 
-        // Object creation statement
+        // Object creation statement. Instance of Car called ferrari
         Car ferrari = new Car();
-
 
         boolean isMorning = true;
 
