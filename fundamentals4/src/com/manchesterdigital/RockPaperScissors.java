@@ -6,6 +6,7 @@ import java.util.Scanner;
 //Print winner
 
 public class RockPaperScissors {
+
     public static void main(String[] args) {
         Scanner userInput = new Scanner(System.in);
         String userChoice = userInput.nextLine();

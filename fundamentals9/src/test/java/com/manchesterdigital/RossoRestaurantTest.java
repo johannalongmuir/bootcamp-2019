@@ -3,6 +3,8 @@ package com.manchesterdigital;
 import org.assertj.core.api.Assertions;
 import org.junit.Test;
 
+import static com.manchesterdigital.CusineRossoRestaurant.*;
+
 public class RossoRestaurantTest {
 
     /*
@@ -26,22 +28,38 @@ public class RossoRestaurantTest {
 
     @Test
     public void whenMexicanRequestedReturnsTacoBurrito() {
-        String mexican = "Mexican";
+        CusineRossoRestaurant foodType = MEXICAN;
 
-        String result = RossoRestaurant.getDish(mexican);
+        String result = RossoRestaurant.getDish(foodType);
 
         Assertions.assertThat(result).isEqualTo("Tacos, Burrito");
-
     }
-
 
     @Test
     public void whenIndianRequestedReturnsTandooriChickenBhunaGhosht() {
-        String mexican = "Indian";
+        CusineRossoRestaurant foodType = INDIAN;
 
-        String result = RossoRestaurant.getDish(mexican);
+        String result = RossoRestaurant.getDish(foodType);
 
         Assertions.assertThat(result).isEqualTo("Tandoori Chicken, Bhuna Ghosht");
-
     }
+
+    @Test
+    public void whenPanAsianRequestedReturnsStirFryNoodlesDumSum() {
+        CusineRossoRestaurant foodType = PAN_ASIAN;
+
+        String result = RossoRestaurant.getDish(foodType);
+
+        Assertions.assertThat(result).isEqualTo("Stir Fry Noodles, Dimsum");
+    }
+
+    @Test
+    public void whenEnglisRequestedReturnsBeefWellingtonFishAndChips() {
+        CusineRossoRestaurant foodType = ENGLISH;
+
+        String result = RossoRestaurant.getDish(foodType);
+
+        Assertions.assertThat(result).isEqualTo("Beef Wellington, Fish and Chips");
+    }
+
 }

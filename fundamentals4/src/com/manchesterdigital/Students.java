@@ -1,6 +1,7 @@
 package com.manchesterdigital;
 
 public class Students {
+
     // private variable. Member variable as belongs just to this class. Private so only I can use it
     private String name;
     private int age;
