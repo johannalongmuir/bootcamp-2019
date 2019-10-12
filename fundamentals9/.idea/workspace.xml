@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e32f9af-f88e-4186-8d39-66510153817b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../emmachallenge/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emmachallenge/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emmachallenge/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emmachallenge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emmachallenge/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emmachallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emmachallenge/emmachallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emmachallenge/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emmachallenge/src/main/java/com/manchesterdigital/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emmachallenge/src/main/java/com/manchesterdigital/AnimalTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emmachallenge/src/test/java/com/manchesterdigital/AnimalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emmachallenge/src/test/java/com/manchesterdigital/InstrumentsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emmachallenge/target/classes/com/manchesterdigital/Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emmachallenge/target/test-classes/com/manchesterdigital/AnimalTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emmachallenge/target/test-classes/com/manchesterdigital/InstrumentsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-3/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-5/fundamentals5testing/src/main/java/com/manchesterdigital/FizzBuzzChallengeLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-5/fundamentals5testing/target/classes/com/manchesterdigital/FizzBuzzChallenge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals10/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals10/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals10/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals10/fundamentals10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals10/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals10/src/main/java/com/manchesterdigital/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals10/src/main/java/com/manchesterdigital/MapsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals10/src/main/java/com/manchesterdigital/RegMeNow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals10/src/main/java/com/manchesterdigital/RegMeNowException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals10/src/main/java/com/manchesterdigital/SetsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals10/src/test/java/com/manchesterdigital/FizzBuzzChallengeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals10/src/test/java/com/manchesterdigital/RegMeNowTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals11/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals11/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals11/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals11/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals11/fundamentals11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals11/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals11/src/main/java/com/manchesterdigital/Artist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals11/src/main/java/com/manchesterdigital/FunctionalExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals11/src/main/java/com/manchesterdigital/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals11/src/main/java/com/manchesterdigital/NumericTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals11/src/main/java/com/manchesterdigital/Scratch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals11/target/classes/com/manchesterdigital/Artist.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals11/target/classes/com/manchesterdigital/FunctionalExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals11/target/classes/com/manchesterdigital/Greeting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals11/target/classes/com/manchesterdigital/NumericTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals11/target/classes/com/manchesterdigital/Scratch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/fundamentals8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/src/main/java/com/manchesterdigital/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/src/main/java/com/manchesterdigital/Controls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/src/main/java/com/manchesterdigital/Countries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/src/main/java/com/manchesterdigital/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/src/main/java/com/manchesterdigital/DogSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/src/main/java/com/manchesterdigital/EnglishSpeaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/src/main/java/com/manchesterdigital/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/src/main/java/com/manchesterdigital/IsChargable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/src/main/java/com/manchesterdigital/Lights.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/src/main/java/com/manchesterdigital/MainSpeaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/src/main/java/com/manchesterdigital/Movement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/src/main/java/com/manchesterdigital/OrderProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/src/main/java/com/manchesterdigital/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/src/main/java/com/manchesterdigital/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/src/main/java/com/manchesterdigital/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/src/main/java/com/manchesterdigital/RainbowColours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/src/main/java/com/manchesterdigital/Scratch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/src/main/java/com/manchesterdigital/ShoppingListChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/src/main/java/com/manchesterdigital/SpanishSpeaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/src/main/java/com/manchesterdigital/Speaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/src/main/java/com/manchesterdigital/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/src/main/java/com/manchesterdigital/Tesla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/src/main/java/com/manchesterdigital/Toyota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/src/main/java/com/manchesterdigital/TransmissionType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/src/main/java/com/manchesterdigital/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals8/src/test/java/com/manchesterdigital/ShoppingListChallengeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentals9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/manchesterdigital/CusineRossoRestaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/manchesterdigital/RossoRestaurantTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamentals-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fundamentals-3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamentals-3/out/production/fundamentals-3/com/manchesterdigital/BlockStatements.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fundamentals-3/out/production/fundamentals-3/com/manchesterdigital/BlockStatements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamentals-3/out/production/fundamentals-3/com/manchesterdigital/CodingChallenge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamentals-3/out/production/fundamentals-3/com/manchesterdigital/ExpressionStatements.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fundamentals-3/out/production/fundamentals-3/com/manchesterdigital/ExpressionStatements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamentals-3/out/production/fundamentals-3/com/manchesterdigital/IfStatements.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fundamentals-3/out/production/fundamentals-3/com/manchesterdigital/IfStatements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamentals-3/out/production/fundamentals-3/com/manchesterdigital/LastDigit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamentals-3/out/production/fundamentals-3/com/manchesterdigital/RestaurantChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fundamentals-3/out/production/fundamentals-3/com/manchesterdigital/RestaurantChallenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamentals-3/out/production/fundamentals-3/com/manchesterdigital/School.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fundamentals-3/out/production/fundamentals-3/com/manchesterdigital/School.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamentals-3/out/production/fundamentals-3/com/manchesterdigital/Students.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fundamentals-3/out/production/fundamentals-3/com/manchesterdigital/Students.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamentals-3/out/production/fundamentals-3/com/manchesterdigital/SwitchStatements.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fundamentals-3/out/production/fundamentals-3/com/manchesterdigital/SwitchStatements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamentals-3/out/production/fundamentals-3/com/manchesterdigital/Variables.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fundamentals-3/out/production/fundamentals-3/com/manchesterdigital/Variables.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamentals-3/out/production/fundamentals-3/com/manchesterdigital/WeekdayChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fundamentals-3/out/production/fundamentals-3/com/manchesterdigital/WeekdayChallenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamentals-3/src/com/manchesterdigital/StringBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamentals-4" beforeDir="false" afterPath="$PROJECT_DIR$/../fundamentals-4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamentals-5/fundamentals5testing/src/main/java/com/manchesterdigital/FizzBuzzChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fundamentals-5/fundamentals5testing/src/main/java/com/manchesterdigital/FizzBuzzChallenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamentals-5/fundamentals5testing/src/test/java/com/manchesterdigital/FizzBuzzChallengeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fundamentals-5/fundamentals5testing/src/test/java/com/manchesterdigital/FizzBuzzChallengeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamentals4/src/com/manchesterdigital/RockPaperScissors.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fundamentals4/src/com/manchesterdigital/RockPaperScissors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamentals4/src/com/manchesterdigital/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fundamentals4/src/com/manchesterdigital/Students.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/manchesterdigital/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/manchesterdigital/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/manchesterdigital/RossoRestaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/manchesterdigital/RossoRestaurant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/manchesterdigital/RossoRestaurantTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/manchesterdigital/RossoRestaurantTest.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="johannalongmuir &lt;johannalongmuir@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="johannalongmuir" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="bootcamp-2019" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Rgd6gaAgxLEZfAaEKtnMVJtaWi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.manchesterdigital" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.manchesterdigital" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.RossoRestaurantTest">
+    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.manchesterdigital.MapExample" />
+      <module name="fundamentals9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.manchesterdigital.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RossoRestaurantTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fundamentals9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.manchesterdigital.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.manchesterdigital" />
+      <option name="MAIN_CLASS_NAME" value="com.manchesterdigital.RossoRestaurantTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RossoRestaurantTest.whenIndianRequestedReturnsTandooriChickenBhunaGhosht" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fundamentals9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.manchesterdigital.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.manchesterdigital" />
+      <option name="MAIN_CLASS_NAME" value="com.manchesterdigital.RossoRestaurantTest" />
+      <option name="METHOD_NAME" value="whenIndianRequestedReturnsTandooriChickenBhunaGhosht" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RossoRestaurantTest.whenMexicanRequestedReturnsTacoBurrito" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fundamentals9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.manchesterdigital.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.manchesterdigital" />
+      <option name="MAIN_CLASS_NAME" value="com.manchesterdigital.RossoRestaurantTest" />
+      <option name="METHOD_NAME" value="whenMexicanRequestedReturnsTacoBurrito" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RossoRestaurantTest.whenPanAsianRequestedReturnsStirFryNoodlesDumSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fundamentals9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.manchesterdigital.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.manchesterdigital" />
+      <option name="MAIN_CLASS_NAME" value="com.manchesterdigital.RossoRestaurantTest" />
+      <option name="METHOD_NAME" value="whenPanAsianRequestedReturnsStirFryNoodlesDumSum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RossoRestaurantTest" />
+        <item itemvalue="JUnit.RossoRestaurantTest.whenMexicanRequestedReturnsTacoBurrito" />
+        <item itemvalue="JUnit.RossoRestaurantTest.whenPanAsianRequestedReturnsStirFryNoodlesDumSum" />
+        <item itemvalue="JUnit.RossoRestaurantTest.whenIndianRequestedReturnsTandooriChickenBhunaGhosht" />
+        <item itemvalue="Application.MapExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e32f9af-f88e-4186-8d39-66510153817b" name="Default Changelist" comment="" />
+      <created>1570092499354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570092499354</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Fundamentals 9">
+      <created>1570178572119</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570178572119</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fundamentals 9">
+      <created>1570383906330</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570383906330</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Fundamentals 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fundamentals 9" />
+  </component>
+</project>

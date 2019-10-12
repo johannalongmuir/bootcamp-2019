@@ -9,7 +9,7 @@ public class FizzBuzzChallenge {
     private static final String DIVISABLE_FIVE = "Buzz";
 
 
-    protected static String convert(String multipleOfThree, int number) {
+    protected static String convert(int number) {
         if (number % 3 == 0 && number % 5 == 0) {
             return DIVISABLE_THREE_AND_FIVE;
         } else if (number % 3 == 0) {
@@ -20,5 +20,5 @@ public class FizzBuzzChallenge {
         return String.valueOf(number);
     }
 
-
 }
+

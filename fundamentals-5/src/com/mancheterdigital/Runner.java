@@ -26,7 +26,6 @@ public class Runner {
         System.out.println("My ID is: " + id);
 
 
-
         /* don't do: Worse than putting exception in. Absorbes everyting Above exception.
         try {
             Long num = Utility.convertStringToLong("23");

@@ -10,7 +10,7 @@ public class Challenges {
         // better to do this to start with. E.g Make interface MultiplyByTwo,
         ChallengeInterface multiplyByTwo = n -> n * 2;
 
-        // call by using the interface method
+        // Call by using the interface method
 
         Function<Integer, Integer> resultMultiplyByTwo = a -> a * 2;
         System.out.println("multiplyByTwoFunction = " + resultMultiplyByTwo.apply(2));
@@ -53,7 +53,6 @@ public class Challenges {
             } // predicament, throw a wobbler or simply
             return a / b;
         };
-
 
         // turn into ternary. Divider safeDivider2 = (a, b) -> { return (b == 0) ? b : a / b;
         // Not even need return. Not even need {}

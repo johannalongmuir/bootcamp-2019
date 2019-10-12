@@ -14,9 +14,66 @@
       <change afterPath="$PROJECT_DIR$/../emmachallenge/src/main/java/com/manchesterdigital/AnimalTypes.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../emmachallenge/src/test/java/com/manchesterdigital/AnimalTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../emmachallenge/src/test/java/com/manchesterdigital/InstrumentsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../emmachallenge/target/classes/META-INF/emmachallenge.kotlin_module" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../emmachallenge/target/classes/com/manchesterdigital/Animal.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../emmachallenge/target/test-classes/com/manchesterdigital/AnimalTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../emmachallenge/target/test-classes/com/manchesterdigital/InstrumentsTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/fundamentals12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/src/main/java/com/manchesterdigital/Airline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/src/main/java/com/manchesterdigital/AirlineNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/src/main/java/com/manchesterdigital/Airport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/src/main/java/com/manchesterdigital/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/src/main/java/com/manchesterdigital/AlbumChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/src/main/java/com/manchesterdigital/Arena.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/src/main/java/com/manchesterdigital/Artist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/src/main/java/com/manchesterdigital/FlightInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/src/main/java/com/manchesterdigital/FlightService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/src/main/java/com/manchesterdigital/Members.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/src/main/java/com/manchesterdigital/Scratch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/src/main/java/com/manchesterdigital/Streams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/src/main/java/com/manchesterdigital/challenge/IntegerChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/src/main/java/com/manchesterdigital/challenge/NonNegativeReturnRightChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/src/main/java/com/manchesterdigital/studentchallenge/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/src/main/java/com/manchesterdigital/studentchallenge/StudentsChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/target/classes/com/manchesterdigital/Airline.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/target/classes/com/manchesterdigital/AirlineNotFoundException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/target/classes/com/manchesterdigital/Airport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/target/classes/com/manchesterdigital/Arena.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/target/classes/com/manchesterdigital/FlightInformation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/target/classes/com/manchesterdigital/FlightService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/target/classes/com/manchesterdigital/Streams.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/target/classes/com/manchesterdigital/challenge/IntegerChallenge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/target/classes/com/manchesterdigital/challenge/NonNegativeReturnRightChallenge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/target/classes/com/manchesterdigital/studentChallenge/Students.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/target/classes/com/manchesterdigital/studentChallenge/StudentsChallenge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-13/fundmentals13/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-13/fundmentals13/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-13/fundmentals13/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-13/fundmentals13/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-13/fundmentals13/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-13/fundmentals13/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-13/fundmentals13/fundmentals13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-13/fundmentals13/src/main/java/com/manchesterdigital/Archies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-13/fundmentals13/src/main/java/com/manchesterdigital/BlendsFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-13/fundmentals13/src/main/java/com/manchesterdigital/BlockStatemenst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-13/fundmentals13/src/main/java/com/manchesterdigital/Colours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-13/fundmentals13/src/main/java/com/manchesterdigital/Dishes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-13/fundmentals13/src/main/java/com/manchesterdigital/EnumExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-13/fundmentals13/src/main/java/com/manchesterdigital/FoodProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-13/fundmentals13/src/main/java/com/manchesterdigital/HasMilk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-13/fundmentals13/src/main/java/com/manchesterdigital/Machine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-13/fundmentals13/src/main/java/com/manchesterdigital/MachineFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-13/fundmentals13/src/main/java/com/manchesterdigital/MethodsExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-13/fundmentals13/src/main/java/com/manchesterdigital/MilkshakeMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-13/fundmentals13/src/main/java/com/manchesterdigital/Rotatable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-13/fundmentals13/src/main/java/com/manchesterdigital/Scratch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-13/fundmentals13/src/main/java/com/manchesterdigital/VariableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-13/fundmentals13/src/main/java/com/manchesterdigital/stringcalculator/StringCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-13/fundmentals13/src/test/java/com/manchesterdigital/stringcalculator/StringCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fundamentals-13/fundmentals13/target/test-classes/com/manchesterdigital/stringcalculator/StringCalculatorTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fundamentals-3/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fundamentals-5/fundamentals5testing/src/main/java/com/manchesterdigital/FizzBuzzChallengeLoop.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fundamentals-5/fundamentals5testing/target/classes/com/manchesterdigital/FizzBuzzChallenge.class" afterDir="false" />
@@ -35,30 +92,9 @@
       <change afterPath="$PROJECT_DIR$/../fundamentals10/src/main/java/com/manchesterdigital/SetsExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fundamentals10/src/test/java/com/manchesterdigital/FizzBuzzChallengeTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fundamentals10/src/test/java/com/manchesterdigital/RegMeNowTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentals11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/manchesterdigital/Artist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/manchesterdigital/ChallengeInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/manchesterdigital/Challenges.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/manchesterdigital/DivideNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/manchesterdigital/Divider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/manchesterdigital/FunctionalExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/manchesterdigital/Greeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/manchesterdigital/MultiplyByANumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/manchesterdigital/NumericTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/manchesterdigital/RomanNumeralConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/manchesterdigital/Scratch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/manchesterdigital/Artist.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/manchesterdigital/FunctionalExample.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/manchesterdigital/Greeting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/manchesterdigital/NumericTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/manchesterdigital/Scratch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/manchesterdigital/romannumeralconverter/RomanNumeralConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/manchesterdigital/romannumeralconverter/ToRomanNumerals.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fundamentals8/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fundamentals8/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fundamentals8/.idea/compiler.xml" afterDir="false" />
@@ -103,6 +139,18 @@
       <change afterPath="$PROJECT_DIR$/../fundamentals9/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fundamentals9/src/main/java/com/manchesterdigital/CusineRossoRestaurant.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../fundamentals9/target/test-classes/com/manchesterdigital/RossoRestaurantTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tddchallenges/tddchallenges/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tddchallenges/tddchallenges/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tddchallenges/tddchallenges/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tddchallenges/tddchallenges/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tddchallenges/tddchallenges/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tddchallenges/tddchallenges/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tddchallenges/tddchallenges/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tddchallenges/tddchallenges/src/main/java/com/manchesterdigital/arraysum/ArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tddchallenges/tddchallenges/src/test/java/com/manchesterdigital/arraysum/ArraySumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tddchallenges/tddchallenges/tddchallenges.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fundamentals-12/fundamentals12/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../fundamentals-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fundamentals-3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../fundamentals-3/out/production/fundamentals-3/com/manchesterdigital/BlockStatements.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fundamentals-3/out/production/fundamentals-3/com/manchesterdigital/BlockStatements.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../fundamentals-3/out/production/fundamentals-3/com/manchesterdigital/CodingChallenge.class" beforeDir="false" />
@@ -119,6 +167,10 @@
       <change beforePath="$PROJECT_DIR$/../fundamentals-4" beforeDir="false" afterPath="$PROJECT_DIR$/../fundamentals-4" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../fundamentals-5/fundamentals5testing/src/main/java/com/manchesterdigital/FizzBuzzChallenge.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fundamentals-5/fundamentals5testing/src/main/java/com/manchesterdigital/FizzBuzzChallenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../fundamentals-5/fundamentals5testing/src/test/java/com/manchesterdigital/FizzBuzzChallengeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fundamentals-5/fundamentals5testing/src/test/java/com/manchesterdigital/FizzBuzzChallengeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fundamentals-5/src/com/mancheterdigital/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fundamentals-5/src/com/mancheterdigital/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/manchesterdigital/Challenges.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/manchesterdigital/Challenges.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/manchesterdigital/RomanNumeralConverter.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../fundamentals4/src/com/manchesterdigital/RockPaperScissors.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fundamentals4/src/com/manchesterdigital/RockPaperScissors.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../fundamentals4/src/com/manchesterdigital/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fundamentals4/src/com/manchesterdigital/Students.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../fundamentals9/src/main/java/com/manchesterdigital/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fundamentals9/src/main/java/com/manchesterdigital/Phone.java" afterDir="false" />
@@ -173,8 +225,11 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1RsJBt0G71VGzwvg4Z82ghyUJvy" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -182,6 +237,9 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.manchesterdigital.romannumeralconverter" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.manchesterdigital" />
     </key>
@@ -204,7 +262,7 @@
       <module name="fundamentals11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.manchesterdigital.*" />
+          <option name="PATTERN" value="com.manchesterdigital.romannumeralconverter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,11 +271,11 @@
       </method>
     </configuration>
     <configuration name="RomanNumeralConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.manchesterdigital.RomanNumeralConverter" />
+      <option name="MAIN_CLASS_NAME" value="com.manchesterdigital.romannumeralconverter.RomanNumeralConverter" />
       <module name="fundamentals11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.manchesterdigital.*" />
+          <option name="PATTERN" value="com.manchesterdigital.romannumeralconverter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -230,7 +288,7 @@
       <module name="fundamentals11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.manchesterdigital.*" />
+          <option name="PATTERN" value="com.manchesterdigital.romannumeralconverter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,6 +315,14 @@
       <option name="presentableId" value="Default" />
       <updated>1570449737626</updated>
     </task>
+    <task id="LOCAL-00001" summary="updated fundamentals 11">
+      <created>1570521818974</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570521818974</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -273,6 +339,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="updated fundamentals 11" />
     <option name="LAST_COMMIT_MESSAGE" value="updated fundamentals 11" />
   </component>

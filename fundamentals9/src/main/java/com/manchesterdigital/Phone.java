@@ -6,5 +6,4 @@ public class Phone {
 
     //Constructor, getters, setters...
 
-
 }
